@@ -1,0 +1,30 @@
+#head{
+    text-align: center;
+    color:black;
+    background-color: #800000;
+    background-image:linear-gradient(#800000,burlywood);
+    
+    
+  }
+  #para{
+    align-items: center;
+    display: flex;
+  }
+  .first,.second{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    
+  }
+  #details,a{
+    text-decoration: none;
+    color: black;
+    
+  }
+  #video{
+    text-align: center;
+    display: flex;
+    padding: 30px;
+    
+  }
+  
